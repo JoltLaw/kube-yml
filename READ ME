@@ -1,0 +1,5 @@
+##Yaml file for kubernetes.
+
+The advantage for using Yaml file as a opposed to the command line is that it uses a declerative funtioniality instead of a an imperative style. 
+This makes it much easier for the development operation operator to spin up pods, deployments, and services 
+
